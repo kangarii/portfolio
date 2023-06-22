@@ -1,0 +1,2 @@
+base color : #fefeff
+sec color : #2b2b2c
